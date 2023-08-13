@@ -1,0 +1,4 @@
+variables:
+- team: kiddcorp-cloudbees-ci
+- admin-user: jwkidd3-admin
+- manager-user: jwkidd3
